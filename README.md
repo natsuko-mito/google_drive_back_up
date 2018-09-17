@@ -1,0 +1,2 @@
+# google_drive_back_up
+Googleドライブでバックアップを作成するためのGASプロジェクトです。
